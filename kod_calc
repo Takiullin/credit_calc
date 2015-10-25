@@ -256,13 +256,14 @@ totalsum.setText("");
     private javax.swing.JButton clearresult;
     private javax.swing.JComboBox creditperiod;
     private javax.swing.JTextField creditsum;
-
+    private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JPanel jPanel1;
+    private javax.swing.JPanel jPanel2;
     private javax.swing.JTextField payment;
     private javax.swing.JTextField percent;
     private javax.swing.JTextField totalsum;
