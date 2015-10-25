@@ -40,11 +40,11 @@ public class credit extends javax.swing.JFrame {
 
         jLabel1.setText("Сумма кредита:");
 
-        jLabel2.setText("Срок кредита:");
+        jLabel2.setText("Период кредитования:");
 
         jLabel3.setText("мес.");
 
-        jLabel4.setText("Ставка:");
+        jLabel4.setText("Процентная ставка:");
 
         jLabel6.setText("%");
 
@@ -263,8 +263,7 @@ totalsum.setText("");
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JPanel jPanel1;
- 
-
+    private javax.swing.JTextField payment;
     private javax.swing.JTextField percent;
     private javax.swing.JTextField totalsum;
 }
